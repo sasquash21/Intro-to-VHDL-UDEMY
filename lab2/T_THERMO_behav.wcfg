@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="T_THERMO_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="T_THERMO" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="18.801 ns"></ZoomEndTime>
+      <Cursor1Time time="70.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="260"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/T_THERMO/CURRENT_TEMP" type="array">
+      <obj_property name="ElementShortName">CURRENT_TEMP[6:0]</obj_property>
+      <obj_property name="ObjectShortName">CURRENT_TEMP[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/DESIRED_TEMP" type="array">
+      <obj_property name="ElementShortName">DESIRED_TEMP[6:0]</obj_property>
+      <obj_property name="ObjectShortName">DESIRED_TEMP[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/TEMP_DISPLAY" type="array">
+      <obj_property name="ElementShortName">TEMP_DISPLAY[6:0]</obj_property>
+      <obj_property name="ObjectShortName">TEMP_DISPLAY[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/DISPLAY_SELECT" type="logic">
+      <obj_property name="ElementShortName">DISPLAY_SELECT</obj_property>
+      <obj_property name="ObjectShortName">DISPLAY_SELECT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/COOL" type="logic">
+      <obj_property name="ElementShortName">COOL</obj_property>
+      <obj_property name="ObjectShortName">COOL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/HEAT" type="logic">
+      <obj_property name="ElementShortName">HEAT</obj_property>
+      <obj_property name="ObjectShortName">HEAT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/A_C_ON" type="logic">
+      <obj_property name="ElementShortName">A_C_ON</obj_property>
+      <obj_property name="ObjectShortName">A_C_ON</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/FURNACE_ON" type="logic">
+      <obj_property name="ElementShortName">FURNACE_ON</obj_property>
+      <obj_property name="ObjectShortName">FURNACE_ON</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/UUT/CURRENT_TEMP" type="array">
+      <obj_property name="ElementShortName">CURRENT_TEMP[6:0]</obj_property>
+      <obj_property name="ObjectShortName">CURRENT_TEMP[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/UUT/DESIRED_TEMP" type="array">
+      <obj_property name="ElementShortName">DESIRED_TEMP[6:0]</obj_property>
+      <obj_property name="ObjectShortName">DESIRED_TEMP[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/UUT/DISPLAY_SELECT" type="logic">
+      <obj_property name="ElementShortName">DISPLAY_SELECT</obj_property>
+      <obj_property name="ObjectShortName">DISPLAY_SELECT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/UUT/COOL" type="logic">
+      <obj_property name="ElementShortName">COOL</obj_property>
+      <obj_property name="ObjectShortName">COOL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/UUT/HEAT" type="logic">
+      <obj_property name="ElementShortName">HEAT</obj_property>
+      <obj_property name="ObjectShortName">HEAT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/UUT/TEMP_DISPLAY" type="array">
+      <obj_property name="ElementShortName">TEMP_DISPLAY[6:0]</obj_property>
+      <obj_property name="ObjectShortName">TEMP_DISPLAY[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/UUT/A_C_ON" type="logic">
+      <obj_property name="ElementShortName">A_C_ON</obj_property>
+      <obj_property name="ObjectShortName">A_C_ON</obj_property>
+   </wvobject>
+   <wvobject fp_name="/T_THERMO/UUT/FURNACE_ON" type="logic">
+      <obj_property name="ElementShortName">FURNACE_ON</obj_property>
+      <obj_property name="ObjectShortName">FURNACE_ON</obj_property>
+   </wvobject>
+</wave_config>
