@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Workspace/IntroVHDL/lab3/lab3.srcs/sources_1/new/thermo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'THERMO'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Workspace/IntroVHDL/lab3/lab3.srcs/sim_1/new/t_thermo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'T_THERMO'
